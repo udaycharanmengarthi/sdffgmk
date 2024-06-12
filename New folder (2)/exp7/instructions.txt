@@ -1,0 +1,9 @@
+npm init -y
+npm install express
+npm install hbs    
+npm install mongoose
+cd src
+node index.js       
+listening on port 3000
+Mongo db connected
+
